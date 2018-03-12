@@ -2,7 +2,7 @@
 Let's Paint is a Graphical Editor for user to draw geometrical figures like circle, ellipse, line, spiral using 2D drawing tools. Built with C programming language.
 
 # Algorithms implemented -
-######1	Bresenham’s Circle Algorithm to draw a circle
+###### 1	Bresenham’s Circle Algorithm to draw a circle
 2	Algorithm to rotate a line around a circle
 3	Algorithm to draw spiral
 4	Algorithm for obtaining coordinates of 2D rectangle after translation, scaling and rotation
