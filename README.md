@@ -19,3 +19,6 @@ Let's Paint is a Graphical Editor for user to draw geometrical figures like circ
 # Steps to run the project -
 ###### 1. Build C project and run it
 ###### 2. When the project window opens, select geometric shape of your choice and draw in the workspace
+
+# YouTube link to view the functioning of the app
+###### https://youtu.be/Pz9EXl6sk60
